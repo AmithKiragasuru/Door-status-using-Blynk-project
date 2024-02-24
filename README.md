@@ -1,1 +1,0 @@
-# Door-status-using-Blynk-project
